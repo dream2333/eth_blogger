@@ -1,0 +1,26 @@
+.editor-content{
+    padding: 1.3rem;
+    font-size: 1rem;
+    white-space: pre-wrap;
+ }
+
+.title-input{
+    margin-top: 0.5rem;
+
+    font-size: 30px;
+}
+
+.title-divider{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.blog-left{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background: #ffffff;
+  }
+
